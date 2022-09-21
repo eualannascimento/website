@@ -1,9 +1,3 @@
----
-title: CV
----
-<img src="me.jpg" align="center" height="96" width="96" ><br/>
-
-
 ## intro
 - Bem vindo ao eualannascimento.com, essa página é um currículo virtual, caso meu perfil esteja alinhado com o que você busca, entre em contato comigo.
 - Obrigado!
