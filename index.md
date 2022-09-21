@@ -1,7 +1,7 @@
 ---
 title: my webpage
 ---
-<img src="me.jpg" align="left" height="48" width="48" ><br>
+<img src="[me.jpg](https://raw.githubusercontent.com/eualannascimento/website/main/me.jpg)" align="center" height="48" width="48" ><br/>
 
 
 ## intro
